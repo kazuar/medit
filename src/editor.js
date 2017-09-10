@@ -4,6 +4,7 @@ import CodeMirror from '@skidding/react-codemirror';
 
 require('codemirror/lib/codemirror.css');
 require('codemirror/mode/javascript/javascript');
+require('codemirror/mode/python/python');
 require('codemirror/mode/xml/xml');
 require('codemirror/mode/markdown/markdown');
 require('codemirror/theme/monokai.css');
